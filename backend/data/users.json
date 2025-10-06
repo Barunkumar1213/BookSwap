@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a17335aa-19ef-49e4-9e36-4ba44e38d612",
+    "name": "Barun Kumar",
+    "email": "baruntiwari1213@gmail.com",
+    "password": "$2a$10$cLPo0tXqn8ptpug4pxH.ROXIcxQ6r8YxOPslPhKFtFDH4TlRYS9yG",
+    "createdAt": "2025-10-03T15:14:23.958Z"
+  },
+  {
+    "id": "b514d550-059b-48ae-9745-93bbc2b700bc",
+    "name": "demo",
+    "email": "demo123@gmail.com",
+    "password": "$2a$10$qTubzgEIyty38TQ7606WNu2c4UX0H6KJlv3iS2TJIrTdTWFvqLr9i",
+    "createdAt": "2025-10-06T06:22:09.067Z"
+  }
+]

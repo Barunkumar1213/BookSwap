@@ -1,0 +1,11 @@
+[
+  {
+    "id": "0cc02851-753a-42ab-8e6c-33255834250a",
+    "bookId": "56ca5fea-0816-447c-8216-97087287c6d5",
+    "requesterId": "b514d550-059b-48ae-9745-93bbc2b700bc",
+    "message": "i want to get this book.",
+    "status": "accepted",
+    "createdAt": "2025-10-06T06:46:11.078Z",
+    "updatedAt": "2025-10-06T06:46:32.151Z"
+  }
+]
